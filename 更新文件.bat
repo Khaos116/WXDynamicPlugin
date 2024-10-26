@@ -4,3 +4,6 @@ chcp 65001
 git add .
 git commit -m "提交更改"
 git push
+
+::使用pause可以查看过程
+pause
